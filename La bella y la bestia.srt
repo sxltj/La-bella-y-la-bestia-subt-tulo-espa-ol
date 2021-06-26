@@ -104,8 +104,7 @@ al Príncipe una sola rosa .</i>
 
 25
 00:02:35,697 --> 00:02:37,620
-<i>In desprecio 
-por su aspecto andrajoso...</i>
+<i>En desprecio por su aspecto andrajoso...</i>
 　　
 26
 00:02:38,283 --> 00:02:40,627
@@ -114,21 +113,21 @@ rechazó a la mujer.</i>
 
 27
 00:02:43,872 --> 00:02:47,593
-<i>Pero ya le advirtió que no se dejar
+<i>Pero ya le advirtió que no se dejara
 engañar por las apariencias.</i>
 
 28
 00:02:51,838 --> 00:02:55,138
-<i>Pues la belleza se haya en el interior.</i>
+<i>Pues la belleza se halla en el interior.</i>
 
 29
 00:02:57,386 --> 00:02:58,979
-<i>Cuando la volvió a rehcazar...</i>
+<i>Cuando la volvió a rechazar...</i>
 
 30
 00:02:59,137 --> 00:03:01,560
 <i>...la apariencia externa
-de la anciana se desvolvió.</i>
+de la anciana se disolvió.</i>
 
 31
 00:03:05,519 --> 00:03:06,611
@@ -168,7 +167,7 @@ sobre el castillo...</i>
 
 39
 00:03:40,470 --> 00:03:42,097
-<i>...a todo aquello que vivía hay.</i>
+<i>...y todo aquel que vivía ahí.</i>
 
 40
 00:03:48,395 --> 00:03:50,363
@@ -196,7 +195,7 @@ en realidad era una rosa encantada.</i>
 
 45
 00:04:05,078 --> 00:04:07,172
-<i>Si él aprendía
+<i>Si él aprendía a
 amar a alguien...</i>
 
 46
@@ -210,7 +209,7 @@ antes de caer el último pétalo...</i>
 
 48
 00:04:14,004 --> 00:04:19,761
-<i>Si no, sería condenado permanecer 
+<i>Si no, sería condenado a permanecer 
 como una bestia por toda la eternidad.</i>
 
 49
@@ -354,8 +353,7 @@ Qué altos precios #
 
 81
 00:06:35,186 --> 00:06:37,780
-Si es nuestra único ratón
-de biblioteca.
+Si es nuestro único ratón de biblioteca.
 
 82
 00:06:37,939 --> 00:06:40,658
@@ -379,8 +377,7 @@ Temo que no.
 
 87
 00:06:47,365 --> 00:06:49,459
-Pero puedes releer
-Algún otro que te guste.
+Pero puedes releer algún otro que te guste.
 
 88
 00:06:49,618 --> 00:06:50,618
@@ -482,16 +479,16 @@ Y tú eres de...
 
 111
 00:08:22,711 --> 00:08:25,263
-- ...interés atléticos.
+- ...intereses atléticos.
 - Lo sé.
 
 112
 00:08:25,797 --> 00:08:28,050
-Bella, de más hermosa es obstinada.
+Bella, además de hermosa es obstinada.
 
 113
 00:08:28,216 --> 00:08:30,765
-¡Exacto! ¿Quién la necesita
+¡Exacto! ¿Quién la necesita,
 nos tenemos los dos?
 
 114
@@ -553,7 +550,7 @@ Me da desmayo #
 
 127
 00:09:21,102 --> 00:09:23,605
-Eso jamás será cumplida, chicas.
+Eso jamás se les cumplirá, chicas.
 
 128
 00:09:28,276 --> 00:09:29,277
@@ -682,12 +679,12 @@ No, LeFou.
 
 156
 00:10:41,558 --> 00:10:45,028
-Las chicas difíciles de casar
- son la más dulce presa.
+Las chicas difíciles de cazar
+son la más dulce presa.
 
 157
 00:10:45,186 --> 00:10:46,859
-Justo por eso bella es fascinante. 
+Justo por eso Bella es fascinante. 
 
 158
 00:10:47,021 --> 00:10:50,241
@@ -855,7 +852,7 @@ Y...
 
 198
 00:14:03,968 --> 00:14:06,391
-Una rosa. Igual la de la pintura.
+Una rosa igual a la de la pintura.
 
 199
 00:14:06,679 --> 00:14:08,306
@@ -947,7 +944,7 @@ El bello pájaro
 
 221
 00:15:41,399 --> 00:15:43,572
-¿Enseñar a otra niña leer?
+¿Enseñar a otra chica a leer?
 
 222
 00:15:43,734 --> 00:15:45,828
@@ -1057,7 +1054,7 @@ Gastón...
 
 247
 00:17:03,314 --> 00:17:05,408
-...no lo lograríamos nunca sernos felices.
+...no lograríamos nunca sernos felices.
 
 248
 00:17:05,608 --> 00:17:08,361
@@ -1087,7 +1084,7 @@ Este es nuestro mundo, Bella.
 
 254
 00:17:22,750 --> 00:17:25,344
-Somos siempre aldeanos, no existe nada mejor.
+Somos simples aldeanos, no existe nada mejor.
 
 255
 00:17:25,503 --> 00:17:27,255
@@ -1111,7 +1108,7 @@ Pero no por eso soy simple...
 
 260
 00:17:52,989 --> 00:17:55,913
-¿A mí ? Como esposa de ese cretino...
+¿A mí? Como esposa de ese cretino...
 
 261
 00:17:56,075 --> 00:17:57,076
@@ -1150,7 +1147,7 @@ Lo garantizo #
 
 269
 00:18:39,118 --> 00:18:43,168
-# Que comparta este idea #
+# Que comparta este ideal #
 
 270
 00:18:44,290 --> 00:18:50,290
@@ -1274,7 +1271,7 @@ anfitrión involuntario.
 
 299
 00:21:36,045 --> 00:21:38,264
-Quien quiera que sea él.
+Quién quiera que sea él.
 
 300
 00:22:12,790 --> 00:22:14,042
@@ -1346,11 +1343,11 @@ Extraordinario.
 
 317
 00:23:38,375 --> 00:23:41,379
-Bueno, dónde quiera que este...
+Bueno, dondequiera que esté...
 
 318
 00:23:42,338 --> 00:23:45,933
-...solo voy a calentarme junto el fuego.
+...solo voy a calentarme junto al fuego.
 
 319
 00:23:53,349 --> 00:23:54,692
@@ -1548,11 +1545,11 @@ Castígame a mí, no a él.
 
 367
 00:29:09,957 --> 00:29:11,958
-¡No! Su presión es para siempre.
+¡No! Su prisión es para siempre.
 
 368
 00:29:13,377 --> 00:29:17,382
-Parece que eso recibe en este
+Parece que esto recibes en este
 lugar por cortar una flor.
 
 369
@@ -1574,7 +1571,7 @@ el lugar de tu padre?
 
 373
 00:29:33,730 --> 00:29:34,982
-Camina hacía la luz.
+Camina hacia la luz.
 
 374
 00:29:43,824 --> 00:29:44,996
@@ -1615,10 +1612,10 @@ Quiero un minuto solas con él.
 383
 00:30:06,179 --> 00:30:08,932
 ...que no dejaras que una
-hija le dio un beso a su padre?
+hija le dé un beso a su padre?
 
 384
-00:30:41,298 --> 00:30:42,641
+00:30:11,298 --> 00:30:13,641
 Para siempre puedes esperar un minuto.
 
 385
@@ -1631,7 +1628,7 @@ Hubiera ido contigo.
 
 387
 00:30:42,799 --> 00:30:45,052
-No,no,no. Bella, escúchame.
+No, no, no. Bella, escúchame.
 
 388
 00:30:45,385 --> 00:30:47,058
@@ -1663,7 +1660,7 @@ Te quiero, Bella.
 
 395
 00:30:58,398 --> 00:30:59,615
-No hay porqué a temer.
+No hay porque temer.
 
 396
 00:31:00,400 --> 00:31:02,243
@@ -1675,7 +1672,7 @@ No voy a temer.
 
 398
 00:31:07,449 --> 00:31:08,951
-Y lograré a escapar. Lo prometo.
+Y lograré escapar. Lo prometo.
 
 399
 00:31:10,285 --> 00:31:11,457
@@ -1724,7 +1721,7 @@ Bella...
 
 410
 00:31:49,908 --> 00:31:52,081
-Perdón a la interrupción, <i>mademoiselle...</i>
+Perdona la interrupción, <i>mademoiselle...</i>
 
 411
 00:31:52,244 --> 00:31:55,248
@@ -1763,7 +1760,7 @@ Es fuerte, sin duda.
 
 419
 00:32:14,141 --> 00:32:15,688
-Un excelente cualidad.
+Una excelente cualidad.
 
 420
 00:32:16,143 --> 00:32:17,440
@@ -1787,7 +1784,7 @@ Es lo único que hace, llegué.
 
 425
 00:32:26,987 --> 00:32:29,285
-Ahora,Lumiere, soy el administrador...
+Ahora, Lumiere, soy el administrador...
 
 426
 00:32:29,448 --> 00:32:31,200
@@ -1812,12 +1809,12 @@ Confía en mí.
 
 431
 00:32:41,501 --> 00:32:45,222
-Y disculpo por la primera impresión.
-Espero que no haberte aterrado.
+Me disculpo por la primera impresión.
+Espero que no haberte alterado.
 
 432
 00:32:45,380 --> 00:32:47,053
-¿Por qué iba a aterrarme?
+¿Por qué iba a alterarme?
 
 433
 00:32:47,215 --> 00:32:48,307
@@ -1873,11 +1870,11 @@ Sí, es todo.
 
 445
 00:33:08,904 --> 00:33:10,497
-Por aquí, por favor. Hacía la ala este.
+Por aquí, por favor. Hacia el ala este.
 
 446
 00:33:10,655 --> 00:33:13,374
-O como me gusta llamarla, la única ala.
+O como me gusta llamarle, la única ala.
 
 447
 00:33:14,534 --> 00:33:16,662
@@ -1901,8 +1898,8 @@ Es muy hermosa.
 
 452
 00:33:49,236 --> 00:33:51,739
-El amo quería que tengas
-el mejor en todo el castillo.  ????
+El amo quería que residieras en
+la mejor alcoba en el castillo.
 
 453
 00:33:53,532 --> 00:33:55,580
@@ -1939,7 +1936,7 @@ Seamos por antes.
 
 461
 00:34:15,762 --> 00:34:18,106
-¿No,sé si voy a hacer algo,tú me vuelves ser…
+¿No sé si puedo hacer algo, tú me vuelves...
 
 462
 00:34:24,104 --> 00:34:25,777
@@ -1972,7 +1969,7 @@ Cuando no se queda dormida.
 
 469
 00:34:44,791 --> 00:34:48,466
-¡Dindón! ¡Lastima! Requieren 
+¡Dindón! ¡Lastimas! Requieren 
 su sueño de belleza.  
 
 470
@@ -2019,7 +2016,7 @@ No soy una princesa.
 480
 00:35:09,107 --> 00:35:11,826
 Ahora veamos
-qué guardan en mis cajones.
+qué guardan mis cajones.
 
 481
 00:35:13,320 --> 00:35:15,038
@@ -2027,16 +2024,15 @@ Pero qué vergüenza, amor.
 
 482
 00:35:16,197 --> 00:35:18,040
-Froufrou, ve a ayudar a mamá.
+Froufrou, ven a ayudar a mamá.
 
 483
 00:35:31,338 --> 00:35:33,682
-¡Perfecto!
+Sutil. Discreto. 
 
 484
 00:35:34,799 --> 00:35:37,177
-Froufrou, llámame sanos 
-al maestro.
+Froufrou, lleva mis cariños al maestro.
 
 485
 00:36:12,295 --> 00:36:14,047
@@ -2163,7 +2159,7 @@ como nuestro Gastón #
 
 514
 00:37:45,805 --> 00:37:48,979
-# Muy grande es Gastón #
+# Muy grande eres Gastón #
 
 515
 00:37:49,142 --> 00:37:50,485
@@ -2338,7 +2334,7 @@ LeFou, eres el mejor.
 
 557
 00:41:13,721 --> 00:41:17,066
-Como es tan que soy sumiso, pero no entiendo que sea. 
+Comentan que soy sumiso, pero no entiendo que sea. 
 
 558
 00:41:22,647 --> 00:41:25,116
@@ -2427,7 +2423,7 @@ Es suficiente…
 
 579
 00:42:13,531 --> 00:42:15,909
-…no permitiré que se burlen de él. 
+... no permitiré que se burlen de él. 
 
 580
 00:42:16,117 --> 00:42:17,585
@@ -2491,7 +2487,7 @@ Calmado. Yo hablaré con él sí.
 
 595
 00:43:10,713 --> 00:43:12,511
-Y pensamos que le gustaría a la compañía. 
+Y pensamos que le gustaría la compañía. 
 
 596
 00:43:12,673 --> 00:43:14,721
@@ -2528,7 +2524,7 @@ Pero si ella es quien va a romper el hechizo,
 
 604
 00:43:29,357 --> 00:43:32,110
-tal vez sí antes la invita cenar puede cautivarla. 
+tal vez si antes la invita a cenar, pueda cautivarla. 
 
 605
 00:43:32,276 --> 00:43:34,244
@@ -2560,7 +2556,7 @@ Es la hija de un simple ladrón.
 611
 00:43:47,041 --> 00:43:51,217
 No hay que juzgar a las personas, 
-porque en su padre, ¿no lo cree usted?
+por quién es su padre, ¿no lo cree usted?
 
 612
 00:43:55,675 --> 00:43:57,222
@@ -2628,7 +2624,7 @@ Muy bien. Vamos a verla.
 627
 00:44:43,848 --> 00:44:47,819
 Estoy aquí como tu prisionera 
-¿y ahora deseas a cenar conmigo?
+¿y ahora deseas cenar conmigo?
 
 628
 00:44:48,352 --> 00:44:49,569
@@ -2672,7 +2668,7 @@ Morirás de hambre.
 
 638
 00:45:12,752 --> 00:45:14,095
-Si ella no cenar conmigo,
+Si ella no cena conmigo,
 
 639
 00:45:14,253 --> 00:45:15,721
@@ -2684,7 +2680,7 @@ no cenará nada, ¿oíste?
 
 641
 00:45:19,342 --> 00:45:21,686
-No nos tratar así. Lo prohíbo.
+No nos tratará así. Lo prohíbo.
 
 642
 00:45:23,763 --> 00:45:24,855
@@ -2715,7 +2711,7 @@ Muéstrame la chica.
 648
 00:46:34,083 --> 00:46:37,713
 tengo tres plumas nuevas, 
-y salió apenas ayer. 
+y salieron apenas ayer. 
 
 649
 00:46:37,878 --> 00:46:40,006
@@ -2743,11 +2739,11 @@ Mamá, ¿volveré a ser un niño de verdad un día?
 
 655
 00:46:55,688 --> 00:46:58,111
-Ay, sí, Chip. Se tiras a los días… 
+Ay, sí, Chip. Servirás los días...
 
 656
 00:46:58,274 --> 00:47:01,153
-…del sol otra vez. Eso déjamelo a mí.
+... del sol otra vez. Eso déjamelo a mí.
 
 657
 00:47:11,245 --> 00:47:12,792
@@ -2768,7 +2764,7 @@ De verdad...
 
 661
 00:47:28,804 --> 00:47:31,057
-…es un placer conocerte.
+... es un placer conocerte.
 
 662
 00:47:33,893 --> 00:47:37,113
@@ -2777,7 +2773,7 @@ Oh. Es un viaje largo.
 
 663
 00:47:37,271 --> 00:47:38,739
-…prepararé algo para el camino? 
+... prepararé algo para el camino? 
 
 664
 00:47:38,898 --> 00:47:39,945
@@ -2785,11 +2781,11 @@ He aprendido…
 
 665
 00:47:40,107 --> 00:47:42,576
-…que muchos problemas son menos… 
+... que muchos problemas son menos… 
 
 666
 00:47:42,735 --> 00:47:45,579
-…agobiantes después de 
+... agobiantes después de 
 una exquisita taza de té. 
 
 667
@@ -2835,25 +2831,25 @@ Anímate, niña hermosa.
 
 677
 00:48:15,184 --> 00:48:18,779
-Te aseguro que todos se arreglarán. 
-Vas a sentirte mejor…
+Te aseguro que todo se arreglará. 
+Vas a sentirte mejor...
 
 678
 00:48:18,938 --> 00:48:20,440
-…después de cenar. 
+... después de cenar. 
 
 679
 00:48:20,606 --> 00:48:23,780
-Pero él dijo: "Si no cenar conmigo, 
+Pero él dijo: "Si no cena conmigo, 
 no cenará nada”. ¿No? 
 
 680
 00:48:24,276 --> 00:48:26,529
-La furia nos hace dicir tantas cosas. 
+La furia nos hace decir tantas cosas. 
 
 681
 00:48:26,695 --> 00:48:28,789
-Cada quien decide si quiere escucharla solo. 
+Cada quien decide si quiere escucharlas o no. 
 
 682
 00:48:29,156 --> 00:48:30,373
@@ -2873,8 +2869,8 @@ Ahí vienen. ¡Todos última revisión!
 
 686
 00:48:36,664 --> 00:48:40,134
-Si el amo te lo sabía de la alimentaste, 
-¡va a culparme! 
+Si el amo ve que lo desafiaste y la alimentaste, 
+¡él va a culparme! 
 
 687
 00:48:40,292 --> 00:48:41,544
@@ -2882,21 +2878,21 @@ Sí, yo lo arreglo.
 
 688
 00:48:41,710 --> 00:48:45,305
-¿Viste cómo se enfurecen tú ahí?
+¿Viste cómo se enfrentó ahí?
 Sin duda ella es la indicada.
 
 689
 00:48:45,464 --> 00:48:47,466
-Si volvemos a ser humanos, 
+Si queremos ser humanos, 
 ellos deben enamorarse. 
 
 690
 00:48:47,633 --> 00:48:49,727
-¿Y cómo va a pasar si ella no salir de su alcoba?
+¿Y cómo va a pasar si ella no sale de su alcoba?
 
 691
 00:48:49,885 --> 00:48:51,558
-Ay, Chapeau, te falta un mancha. 
+Ay, Chapeau, te falta una mancha. 
 
 692
 00:48:51,720 --> 00:48:53,188
@@ -2904,12 +2900,12 @@ Sabes que ella nunca lo amará.
 
 693
 00:48:53,347 --> 00:48:56,146
-Hasta unas veces reloj roto acierta 
-dos veces al día, amigo mío…
+Un reloj roto acierta 
+dos veces al día, amigo mío...
 
 694
 00:48:56,308 --> 00:48:58,026
-…pero esta no es una de estas veces. 
+... pero esta no es una de estas veces. 
 
 695
 00:48:58,185 --> 00:48:59,812
@@ -2925,8 +2921,8 @@ No tengo papilas, pero sé que todo está exquisito.
 
 698
 00:49:05,359 --> 00:49:07,487
-Pimienta, ¡démelo!
-Sal, ¡macharte!
+Pimienta, ¡házmelo!
+Sal, ¡despáchate!
 
 699
 00:49:07,653 --> 00:49:10,532
@@ -2947,11 +2943,11 @@ Maestro Cadenza, ¿estás listo?
 
 703
 00:49:20,499 --> 00:49:23,002
-Mi última presentación pasó tantos años. 
+Mi última presentación fue hace tantos años. 
 
 704
 00:49:23,169 --> 00:49:25,547
-Con trabajos recuerdo como serlo. 
+Con trabajos recuerdo como hacerlo. 
 
 705
 00:49:31,343 --> 00:49:32,344
@@ -2963,7 +2959,7 @@ Maestro, tu esposa está arriba...
 
 707
 00:49:34,680 --> 00:49:37,103
-…luchando día con día para no dormirse. 
+... luchando día con día para no dormirse. 
 
 708
 00:49:37,266 --> 00:49:39,940
@@ -3025,7 +3021,7 @@ A ponerte cómoda en tu silla...
 
 722
 00:50:21,602 --> 00:50:25,197
-...pues el comedor【   】
+... pues el comedor se honra
 en presentar...
 
 723
@@ -3329,7 +3325,7 @@ son tan amables conmigo.
 
 792
 00:54:48,494 --> 00:54:50,622
-Te aseguro están atrapados como yo.
+De seguro, están atrapados como yo.
 
 793
 00:54:50,788 --> 00:54:52,506
@@ -3346,7 +3342,7 @@ hay un princi...
 
 796
 00:55:01,340 --> 00:55:05,516
-...pesco joven esperando a ser liberar.
+... pesco joven esperando a ser liberado.
 
 797
 00:55:06,845 --> 00:55:09,268
@@ -3378,7 +3374,7 @@ Directo a la cama.
 803
 00:56:58,248 --> 00:57:00,797
 ¿Te das cuenta de lo que habrías hecho?
-¡Eso nos había condenado!
+¡Eso nos habría condenado!
 
 804
 00:57:00,959 --> 00:57:02,256
@@ -3414,7 +3410,7 @@ Jaque mate. Otra vez.
 
 812
 00:57:27,486 --> 00:57:28,988
-Sí, Froufrou. Detendla.
+Sí, Froufrou. Detenla.
 
 813
 00:57:29,154 --> 00:57:30,371
@@ -3434,7 +3430,7 @@ Sí, Froufrou. Detendla.
 
 817
 00:57:34,910 --> 00:57:36,662
-Ahora no, niño tonto.
+Ahora no, poquito.
 
 818
 00:57:36,828 --> 00:57:38,330
@@ -3537,11 +3533,11 @@ Está, no, es ...
 
 842
 01:01:23,221 --> 01:01:24,222
-Hacía allá.
+Hacia allá.
 
 843
 01:01:24,389 --> 01:01:26,107
-Estoy seguro, hacía allá.
+Estoy seguro, hacia allá.
 
 844
 01:01:26,266 --> 01:01:29,520
@@ -3628,7 +3624,7 @@ Si dices Bestia una vez más...
 
 864
 01:02:18,318 --> 01:02:20,571
-Y te haz felices, Gastón.
+Ideas felices, Gastón.
 Solo piensa en la guerra.
 
 865
@@ -3696,11 +3692,11 @@ su bendición...
 
 880
 01:03:00,277 --> 01:03:01,654
-Cuando los lobos terminó con él...
+Cuando los lobos termine con él...
 
 881
 01:03:01,820 --> 01:03:04,494
-...Bella no tendrá quién la 
+...Bella no tendrá a quien la
 cuide más que a mí.
 
 882
@@ -3746,7 +3742,7 @@ si no me hubieras asustado.
 891
 01:03:34,644 --> 01:03:36,362
 Pues, tú no tenías porque ir
-a ala oeste.
+al ala oeste.
 
 892
 01:03:36,813 --> 01:03:39,282
@@ -3771,11 +3767,11 @@ Siempre lo agradeceremos.
 
 897
 01:03:57,709 --> 01:03:59,211
-Toda su vida ya hemos cuidado de él .
+Toda su vida hemos cuidado de él .
 
 898
 01:04:00,211 --> 01:04:02,714
-Pero lo hechizó
+Pero los hechizó
 de algún modo. ¿Por qué?
 
 899
@@ -3799,7 +3795,7 @@ a ese dulce e inocente niño y...
 903
 01:04:15,852 --> 01:04:18,071
 ... lo deformó hasta
-ser igual a él...
+ser lo igual a él...
 
 904
 01:04:18,480 --> 01:04:20,574
@@ -3935,7 +3931,7 @@ en triste canción #
 
 936
 01:07:04,229 --> 01:07:06,231
-¿Qué pasa al cae el último pétalo?
+¿Qué pasa al caer el último pétalo?
 
 937
 01:07:06,397 --> 01:07:10,072
@@ -3949,7 +3945,7 @@ Y pasamos a ser...
 
 939
 01:07:12,195 --> 01:07:14,747
-- Decoraciones, sin usa.
+- Decoraciones, sin usar.
 - Basura.
 
 940
@@ -4085,7 +4081,7 @@ Tal ves.
 
 971
 01:10:48,453 --> 01:10:51,377
-…en gran vaina de hielo, en vuelto.
+... en gran vaina de hielo, en vuelto.
 
 972
 01:10:51,539 --> 01:10:53,507
@@ -4093,12 +4089,12 @@ Cada rama, cada hoja…
 
 973
 01:10:53,666 --> 01:10:57,466
-…cada matorral de lugar como 
+... cada matorral de lugar como 
 un milagro oculto en…
 
 974
 01:10:59,380 --> 01:11:00,632
-…cristal". 
+... cristal". 
 
 975
 01:11:07,597 --> 01:11:10,146
@@ -4111,11 +4107,11 @@ Siento como si lo viera por primera vez.
 977
 01:11:23,070 --> 01:11:27,246
 "Más en tan solemne silencio, 
-susurros se pierden…
+susurros se advierten...
 
 978
 01:11:27,408 --> 01:11:29,376
-…de seres aún durmiendo. 
+... de seres aún durmiendo. 
 
 979
 01:11:30,077 --> 01:11:32,421
@@ -4292,7 +4288,7 @@ Bueno, yo no te agradecí...
 
 1020
 01:15:18,723 --> 01:15:21,397
-...por no dejar que me depuraran los lobos.  
+...por no dejar que me devoraran los lobos.  
 
 1021
 01:15:25,229 --> 01:15:27,072
@@ -4300,8 +4296,8 @@ Saben cómo divertirse.
 
 1022
 01:15:27,231 --> 01:15:31,236
-Sí. Pero en cuando me ven 
-se acaban la risa.
+Sí. Pero en cuanto me ven 
+se acaba la risa.
 
 1023
 01:15:32,153 --> 01:15:33,496
@@ -4362,7 +4358,7 @@ para criaturas como yo…
 
 1037
 01:16:39,720 --> 01:16:43,145
-Piensa que para que siempre 
+Piensa en ese paraje que siempre 
 quisiste conocer.  
 
 1038
@@ -4371,7 +4367,7 @@ Ahora fíjalo en tu mente.
 
 1039
 01:16:49,897 --> 01:16:51,820
-Debe sentirlo en tu corazón. 
+Debes sentirlo en tu corazón. 
 
 1040
 01:17:22,346 --> 01:17:24,348
@@ -4395,7 +4391,7 @@ Notre Dame…
 
 1045
 01:17:34,024 --> 01:17:35,742
-…Los Champs - Élysées…
+... Los Champs - Élysées…
 
 1046
 01:17:35,903 --> 01:17:36,904
@@ -4473,7 +4469,7 @@ Hazlo, no permitas que se contagie.
 1064
 01:19:30,391 --> 01:19:33,486
 Lamento por haber dicho que 
-tu padre un ladrón. 
+tu padre era un ladrón. 
 
 1065
 01:19:36,188 --> 01:19:37,690
@@ -4486,11 +4482,11 @@ Vaya tormenta, ¿eh?
 1067
 01:19:46,198 --> 01:19:49,873
 Al menos no estamos atados
-a un tronco en el medio de la nada…
+a un tronco en medio de la nada…
 
 1068
 01:19:50,035 --> 01:19:52,163
-…rodeados por lobos abiertos. 
+... rodeados por lobos hambrientos. 
 
 1069
 01:19:52,329 --> 01:19:53,922
@@ -4510,7 +4506,7 @@ Es que...
 
 1073
 01:20:01,380 --> 01:20:03,007
-...imagino Maurice adado y solo.
+...imagino Maurice atado y solo.
 
 1074
 01:20:03,173 --> 01:20:04,516
@@ -4636,7 +4632,7 @@ LeFou...
 
 1103
 01:21:15,913 --> 01:21:19,634
-...¿ataque al padre de la única mujer 
+...¿ataqué al padre de la única mujer 
 a la que he amado?
 
 1104
@@ -4693,7 +4689,7 @@ Y la vi en el salón de baile...
 1116
 01:22:04,169 --> 01:22:06,137
 ...y después dije: "Haces que todo
-sería más hermoso.
+sea más hermoso.
 
 1117
 01:22:06,296 --> 01:22:10,051
@@ -4747,7 +4743,7 @@ Siente algo por ella, ¿o no?
 
 1129
 01:22:34,908 --> 01:22:39,163
-Entonces si búscala con preciosa música
+Entonces sí búscala con preciosa música
 y romántica luz de velas.
 
 1130
@@ -4799,7 +4795,7 @@ Primero el cabello.
 
 1141
 01:23:06,023 --> 01:23:07,320
-Los dedos los arreglo yo.
+Pies y manos los arreglo yo.
 
 1142
 01:23:07,483 --> 01:23:10,578
@@ -4816,11 +4812,11 @@ Cortar.
 
 1145
 01:23:14,907 --> 01:23:16,534
-Esmalta las uñas.
+Pulir las uñas.
 
 1146
 01:23:16,700 --> 01:23:18,418
-Lustra los cuernos.
+Lustrar los cuernos.
 
 1147
 01:23:18,577 --> 01:23:19,874
@@ -4836,7 +4832,7 @@ Y para terminar...
 
 1150
 01:23:26,084 --> 01:23:28,758
-Ok,yo lo puedo arreglar.
+Ok, yo lo puedo arreglar.
 
 1151
 01:23:38,096 --> 01:23:39,848
@@ -4976,11 +4972,11 @@ Es absurdo, supongo...
 
 1185
 01:27:57,898 --> 01:28:00,651
-...que una criatura como yo esperé ...
+...que una criatura como yo espere ...
 
 1186
 01:28:00,817 --> 01:28:03,696
-...algún día podré ganar tu afecto.
+...algún día poder ganar tu afecto.
 
 1187
 01:28:04,905 --> 01:28:06,498
@@ -5073,7 +5069,7 @@ pero todo avanza como un reloj.
 
 1209
 01:30:40,352 --> 01:30:41,774
-Yo dejé que se fue.
+Yo dejé que se fuera.
 
 1210
 01:30:41,937 --> 01:30:43,655
@@ -5351,7 +5347,7 @@ y sí hay una bestia!
 1276
 01:35:18,588 --> 01:35:21,637
 Lo dirías con tal de liberarlo.
-Lo crees no es una prueba.
+Lo que dices no es una prueba.
 
 1277
 01:35:21,799 --> 01:35:23,392
@@ -5418,7 +5414,7 @@ de esta oscura magia...
 1292
 01:36:12,350 --> 01:36:15,229
 ...¡pero jamás pensé que los
-venía en persona!
+vería en persona!
 
 1293
 01:36:15,395 --> 01:36:16,395
@@ -5426,7 +5422,7 @@ venía en persona!
 
 1294
 01:36:16,521 --> 01:36:17,864
-...nuestra mera resistencia!
+...nuestra mera existencia!
 
 1295
 01:36:19,440 --> 01:36:21,738
@@ -5611,7 +5607,7 @@ si ella no puede amarlo también.
 1337
 01:38:21,437 --> 01:38:25,783
 No. Esta es la primera vez que realmente
-tú ves esperanza que lo hará.
+tuve esperanza de que lo haría.
 
 1338
 01:38:25,942 --> 01:38:27,489
@@ -5643,7 +5639,7 @@ tú ves esperanza que lo hará.
 
 1345
 01:38:36,452 --> 01:38:38,295
-Pensé, los dije.
+Bien, se los dije.
 
 1346
 01:38:38,454 --> 01:38:40,377
@@ -5651,7 +5647,7 @@ No hay amor verdadero.
 
 1347
 01:38:40,540 --> 01:38:42,338
-Ay menú barricada...
+??? barricada...
 
 1348
 01:38:42,500 --> 01:38:45,174
@@ -5726,7 +5722,7 @@ Sé lo que le pasó a mamá.
 1365
 01:39:39,182 --> 01:39:42,732
 Ahora entiendes por qué la dejé 
-en parís. Tenía que protegerte.
+en París. Tenía que protegerte.
 
 1366
 01:39:42,894 --> 01:39:46,023
@@ -5901,7 +5897,7 @@ Gastón.
 
 1408
 01:42:02,491 --> 01:42:04,209
-Es hora de héroe.
+Es hora del héroe.
 
 1409
 01:42:24,555 --> 01:42:25,651
@@ -5980,7 +5976,7 @@ Sí, qué niños tan lindos. ¡Sí!
 
 1427
 01:43:39,380 --> 01:43:41,223
-Corre. ¡S libre!
+Corre. ¡Sé libre!
 
 1428
 01:43:41,382 --> 01:43:42,804
@@ -6062,7 +6058,7 @@ Voy por ti, mi amar.
 
 1447
 01:44:40,107 --> 01:44:41,825
-¡Llego el día!
+¡Llegó el día!
 
 1448
 01:44:41,984 --> 01:44:45,158
@@ -6159,7 +6155,7 @@ Voy a arrojarte, Bestia.
 
 1471
 01:47:14,303 --> 01:47:15,303
-Vuelvo me.
+Vuelvo ahí.
 
 1472
 01:47:42,498 --> 01:47:43,841
@@ -6227,7 +6223,7 @@ Por supuesto que volví.
 
 1488
 01:49:29,563 --> 01:49:30,906
-Y no volverá dejarte.
+Y no volveré a dejarte.
 
 1489
 01:49:31,732 --> 01:49:33,951

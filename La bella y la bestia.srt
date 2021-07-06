@@ -1756,7 +1756,7 @@ Hola.
 
 418
 00:32:12,514 --> 00:32:13,982
-Es fuerte, sin duda.
+Eres fuerte, sin duda.
 
 419
 00:32:14,141 --> 00:32:15,688
@@ -1822,7 +1822,7 @@ Hablo con un candelero.
 
 434
 00:32:48,467 --> 00:32:50,060
-Un candelabro, ¿no ves?
+Candelabro, ¿no ves?
 
 435
 00:32:50,218 --> 00:32:51,470
@@ -1969,7 +1969,7 @@ Cuando no se queda dormida.
 
 469
 00:34:44,791 --> 00:34:48,466
-¡Dindón! ¡Lastimas! Requieren 
+¡Dindón! Las divas requieren 
 su sueño de belleza.  
 
 470
@@ -2020,7 +2020,7 @@ qué guardan mis cajones.
 
 481
 00:35:13,320 --> 00:35:15,038
-Pero qué vergüenza, amor.
+Pero qué vergüenza.
 
 482
 00:35:16,197 --> 00:35:18,040
@@ -4403,7 +4403,7 @@ Notre Dame…
 
 1048
 01:17:39,989 --> 01:17:42,993
-Es aún más pequeño de lo que imaginé. 
+Es aún más pequeña de lo que imaginé.
  
 1049
 01:17:52,418 --> 01:17:56,173
@@ -5254,10 +5254,6 @@ entre los dos #
 1254
 01:34:09,519 --> 01:34:10,519
 Este hombre está débil.
-
-1255
-01:34:10,645 --> 01:34:11,646
-¡Por favor!
 
 1256
 01:34:12,147 --> 01:34:13,649
@@ -6155,7 +6151,7 @@ Voy a arrojarte, Bestia.
 
 1471
 01:47:14,303 --> 01:47:15,303
-Vuelvo ahí.
+Voy por ti.
 
 1472
 01:47:42,498 --> 01:47:43,841
